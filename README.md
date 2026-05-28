@@ -1,3 +1,3 @@
 # test12433
 
-This is an innovvative repository containing tpyos.
+This is an innovvative repository containing typos.
